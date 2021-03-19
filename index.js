@@ -9,22 +9,22 @@ const generateMarkdown = require('./utils/generateMarkdown');
 const questions = [{
     type: 'input',
     name: 'title',
-    message: 'What is the title of your document?',
+    message: 'What is the title of your project?',
   },
   {
     type: 'input',
     name: 'installation',
-    message: 'Give the user instructions on how to install application.',
+    message: 'Give the user instructions on how to install this application.',
   },
   {
     type: 'input',
     name: 'usage',
-    message: 'Give the user infomation what the use of the application is.',
+    message: 'Give the user information about what the use of the application is.',
   },
   {
     type: 'list',
-    name: 'licencing',
-    choices: ["MIT", "Unlicense"],
+    name: 'license',
+    choices: ["MIT", "Unlicense", "WTFPL"],
     message: 'Enter licenses that this application is covered under.',
   },
   {

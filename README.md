@@ -1,42 +1,42 @@
 # Weather Dashboard
 ## Description
 
-edrhytrhtrherhre
+sdfgdfdghdfsghnfgdhn
 
 ---
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Contributions](#contributions)
-- [Tests](#tests)
-- [Questions](#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+* [Contributions](#contributions)
+* [Tests](#tests)
+* [Questions](#questions)
 
 ---
 
 ## Installation
 
-drhyfhyfdherhttr
+rgerdhtrdhtdhert
 
 ## Usage
 
-dhdhdfhfdghfhfd
+srgerhtdtgsrgrdhsdrgh
 
 ## Contributions
 
-fghdfhdhrtth
+rrdgdhedsdgsgwh
 
 
 ## License
 
-This application is licensed under undefined license.
+This application is licensed under WTFPL license.
 
 ## Tests 
 
-npm test
+sdghergsgsdgfgsdn
 
 ## Questions
 
