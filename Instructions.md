@@ -28,5 +28,5 @@ WHEN user clicks on the links in the Table of Contents
 THEN the user is taken to the corresponding section of the README
 ```
 ## Mock up 
-![README Screenshot1](utils\assets\images\screenshot1.png)
+![README Screenshot1](utils\assets\images\screenshot1.png)<br>
 ![README Screenshot](utils\assets\images\screenshot2.png)
