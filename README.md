@@ -1,7 +1,7 @@
 # README_Generator
 ## Description
 
-This is a quick way to create a README. All the user has to do is answer the quesktions that are asked in the terminal and the work is done. It will ask all necessary questions to have a wuality and professional README for any project.
+Thiss application was created to make README.md files a smoother process. There is a template created that when the user anwers the questions will generate a professinal grade document.
 
 ---
 
@@ -19,20 +19,20 @@ This is a quick way to create a README. All the user has to do is answer the que
 
 ## Installation
 
-No need for install of ths application.
+No need for inistructions to install or use this application.
 
 ## Usage
 
-This is for the users who would like to create a quality README.md for their application. This will make the task more efficient and effective.
+This is to efficiently create a professinal grade README for any user in an effective manner.
 
 ## Contributions
 
-If you would like to add to this project feel free to reach out to me at the email posted in the questions section.
+If you would like to make any contributions to this application feel free to reach me at the email located in the questions section of this document.
 
 
 ## License
 
-This application is licensed under <img src="https://img.shields.io/badge/License-WTFPL-brightgreen.svg"></img> license.
+This application is licensed under <img src="https://img.shields.io/badge/license-Unlicense-blue.svg"></img> license.
 
 ## Tests 
 
@@ -40,10 +40,16 @@ npm test
 
 ## Questions
 
-If you have questions about this application pleaase open and issue or contact me at beyond.committed@gmail.com
+If you have questions about this application pleaase open and issue or contact me at <a href="beyond.committed@gmail.com">beyond.committed@gmail.com</a>
 
 If you have any questions concerning the license this application is covered under follow this link:
-[License] http://www.wtfpl.net/about/
+[License] http://unlicense.org/
 
+Below are any other links and screenshots required for this document:
+https://github.com/beyondcommitted/README_Generator<br>
+https://beyondcommitted.github.io/README_Generator/index.js<br>
+https://youtu.be/E8AGDwAFnFc<br>
+![README Screenshot1](utils\assets\images\screenshot1.png)<br>
+![README Screenshot](utils\assets\images\screentshot2.png)
 ---
 
