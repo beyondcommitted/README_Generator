@@ -7,19 +7,18 @@ function renderLicenseBadge(license) {
     return `<img src="https://img.shields.io/badge/license-Unlicense-blue.svg"></img>`;
   if (license === "WTFPL")
     return `<img src="https://img.shields.io/badge/License-WTFPL-brightgreen.svg"></img>`;
-    else ( license === null)
-    return ''
+  else license === null;
+  return "";
 }
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
-  if (license === "MIT")
-    return "https://opensource.org/licenses/MIT";
+  if (license === "MIT") return "https://opensource.org/licenses/MIT";
   if (license === "Unlicense") return "http://unlicense.org/";
   if (license === "WTFPL") return "http://www.wtfpl.net/about/";
-  else (license === null)
-  return ''
+  else license === null;
+  return "";
 }
 
 // TODO: Create a function that returns the license section of README
@@ -70,7 +69,9 @@ ${data.tests}
 
 ## Questions
 
-If you have questions about this application pleaase open and issue or contact me at ${data.email}
+If you have questions about this application pleaase open and issue or contact me at ${
+    data.email
+  }
 
 If you have any questions concerning the license this application is covered under follow this link:
 [License] ${renderLicenseLink(data.license)}
