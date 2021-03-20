@@ -46,8 +46,8 @@ If you have any questions concerning the license this application is covered und
 [License] http://unlicense.org/
 
 Below are any other links and screenshots required for this document:
-<a href="https://github.com/beyondcommitted/README_Generator"></a><br>
-<a href="https://beyondcommitted.github.io/README_Generator/index.js"></a><br>
+<a href="https://github.com/beyondcommitted/README_Generator">https://github.com/beyondcommitted/README_Generator</a><br>
+<a href="https://beyondcommitted.github.io/README_Generator/index.js">https://beyondcommitted.github.io/README_Generator/index.js</a><br>
 https://youtu.be/E8AGDwAFnFc<br>
 ![README Screenshot1](https://github.com/beyondcommitted/README_Generator/blob/main/utils/assets/images/screenshot1.png?raw=true)<br>
 ![README Screenshot](https://github.com/beyondcommitted/README_Generator/blob/main/utils/assets/images/screentshot2.png?raw=true)
