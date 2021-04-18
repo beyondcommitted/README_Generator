@@ -32,7 +32,7 @@ If you would like to make any contributions to this application feel free to rea
 
 ## License
 
-This application is licensed under <img src="https://img.shields.io/badge/license-Unlicense-blue.svg"></img> license.
+This application is licensed under <img src="https://img.shields.io/badge/license-Unlicense-blue.svg"></img>
 
 ## Tests 
 
@@ -42,8 +42,8 @@ npm test
 
 If you have questions about this application pleaase open and issue or contact me at <a href="beyond.committed@gmail.com">beyond.committed@gmail.com</a>
 
-If you have any questions concerning the license this application is covered under follow this link:
-[License] http://unlicense.org/
+If you have any questions concerning the license this application is covered under click the link below:
+### [License concerns](http://unlicense.org/)
 
 Below are any other links and screenshots required for this document:
 ## <a href="https://github.com/beyondcommitted/README_Generator">GitHub</a><br>
